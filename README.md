@@ -1,6 +1,6 @@
-# 📊 Superstore Sales Dashboard
+# 📊 Informe Rentabilidad Y Desempeño comercial
 
-Dashboard de Business Intelligence construido en Power BI a partir del dataset *Superstore Sales* (Kaggle), con más de 9.800 registros de pedidos entre 2015 y 2018. El proyecto incluye limpieza de datos en Power Query, modelado con tabla de calendario, medidas DAX personalizadas y un dashboard interactivo que responde a preguntas clave de negocio: estacionalidad de ventas, rendimiento por categoría y región, y comportamiento de segmentos de cliente.
+Dashboard de Business Intelligence construido en Power BI a partir del dataset *Analisis de datos de venta* (Kaggle), con más de 250registros de oredenes de venta entre Noviembre y Diciembre del 2022. El proyecto incluye análisis de los datos de origen, adición de columna costo para mejor analisis, modelado con tabla de calendario, medidas DAX personalizadas y un dashboard interactivo que responde a preguntas clave de negocio: margenes de contribucción, rentabilidad por ciudad, ventas por metodo de pago y tipo de compra.
 
 ![Dashboard preview](Dashboard_sales.png)
 
