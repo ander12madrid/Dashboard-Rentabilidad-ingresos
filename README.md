@@ -2,8 +2,9 @@
 
 Dashboard de Business Intelligence construido en Power BI a partir del dataset *Analisis de datos de venta* (Kaggle), con más de 250registros de oredenes de venta entre Noviembre y Diciembre del 2022. El proyecto incluye análisis de los datos de origen, adición de columna costo para mejor analisis, modelado con tabla de calendario, medidas DAX personalizadas y un dashboard interactivo que responde a preguntas clave de negocio: margenes de contribucción, rentabilidad por ciudad, ventas por metodo de pago y tipo de compra.
 
-![Dashboard preview](Dashboard_sales.png)
+![Dashboard preview](Dashboard_desempeño_comercial.png)
 
+![Dashboard preview](Dashboard_margenes.png)
 ---
 
 ## 🎯 Objetivo
