@@ -9,13 +9,13 @@ Dashboard de Business Intelligence construido en Power BI a partir del dataset *
 
 ## 🎯 Objetivo
 
-Analizar el comportamiento de ventas de una empresa de retail (Superstore) para identificar patrones estacionales, categorías y regiones más rentables, y perfiles de cliente que aporten más valor — traduciendo los datos en recomendaciones de negocio accionables.
+Analizar el comportamiento de ventas de un restaurante para identificar volumen de ventas y la rentabilidad del restaurante teniendo en cuenta el margen del 50% establecido por la empresa para todos sus productos.
 
 ## 🗂️ Fuente de datos
 
-- **Dataset:** [Sales Forecasting — Superstore](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) (Kaggle)
-- **Registros:** 9.800 filas · 18 columnas
-- **Periodo:** enero 2015 – diciembre 2018
+- **Dataset:** [Restaurant Sales Data]([https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data/data)) (Kaggle)
+- **Registros:** 256 filas · 9 columnas
+- **Periodo:** Noviembre 2022 – diciembre 2022
 
 ## 🛠️ Proceso
 
